@@ -50,8 +50,6 @@ allen_stpt_ccfv3 = sands.CommonCoordinateSpaceVersion(
     related_publications=[IRI("https://doi.org/10.1016/j.cell.2020.04.007")],
 )
 
-
-
 # Additional metadata
 allen_stpt_ccfv3.bg_name = "allen_mouse"
 allen_stpt_ccfv3.atlas_link = "http://www.brain-map.org"
