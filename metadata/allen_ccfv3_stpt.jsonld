@@ -1,0 +1,38 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "_:allen_ccfv3_stpt",
+  "@type": "https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion",
+  "abbreviation": "CCFv3_STPT",
+  "accessibility": {
+    "@id": "https://openminds.ebrains.eu/instances/productAccessibility/freeAccess"
+  },
+  "anatomicalAxesOrientation": {
+    "@id": "https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PIR"
+  },
+  "axesOrigin": [
+    {
+      "@type": "https://openminds.ebrains.eu/core/QuantitativeValue"
+    },
+    {
+      "@type": "https://openminds.ebrains.eu/core/QuantitativeValue"
+    },
+    {
+      "@type": "https://openminds.ebrains.eu/core/QuantitativeValue"
+    }
+  ],
+  "fullName": "Allen Mouse Brain Common Coordinate Framework",
+  "homepage": "https://portal.brain-map.org/",
+  "howToCite": "Wang Q, Ding S-L, Li Y, et al.; 'The Allen Mouse Brain Common Coordinate Framework: A 3D Reference Atlas.'; Cell; May 2020; 181(4):936-953.e20. [doi: 10.1016/j.cell.2020.04.007](https://doi.org/10.1016/j.cell.2020.04.007)",
+  "nativeUnit": {
+    "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/micrometer"
+  },
+  "relatedPublication": [
+    "https://doi.org/10.1016/j.cell.2020.04.007"
+  ],
+  "releaseDate": "2015-05-01",
+  "shortName": "Allen Mouse Brain CCF",
+  "versionIdentifier": "v3",
+  "versionInnovation": "The third version of the 'Allen Mouse Brain Common Coordinate Framework' (CCFv3) is a 3D reconstruction of a whole brain at 10\u00b5m resolution."
+}

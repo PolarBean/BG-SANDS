@@ -1,0 +1,8 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/micrometer",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "name": "micrometer"
+}
